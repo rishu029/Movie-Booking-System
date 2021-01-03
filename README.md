@@ -2,8 +2,8 @@
 
 Name and email id of team members
 1. Rishabh Tripathi : rishabhtripathi29dec@gmail.com
-2. Rishabh Sharma
-3. Rajeev
+2. Rishabh Sharma   : rishabhsharma08887@gmail.com
+3. Rajeev           : rs481441@gmail.com
 4. Ritu 
 
 Technologies used : Java
